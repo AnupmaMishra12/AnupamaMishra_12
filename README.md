@@ -37,7 +37,9 @@
 - [uptoskills](https://github.com/AnupmaMishra12/uptoskills): Projects as Team Leader Intern at uptoskills.
 - [landing-page](https://github.com/AnupmaMishra12/landing-page): Modern, responsive landing page design.
 - [Login-Page](https://github.com/AnupmaMishra12/Login-Page): Secure, elegant login page template.
-- 
+---
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnupmaMishra12&layout=compact&theme=radical)
+
 ---
 <p align="center">
   <img src="https://copilot.microsoft.com/th/id/BCO.e1f053bb-6951-4d0f-8bb4-f1cb806a5669.png" width="200" />
@@ -58,7 +60,6 @@ These PRs improve screen reader compatibility, responsive layout, and beginner-f
 ### 📊 GitHub Stats
 
 ![Anupma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnupmaMishra12&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnupmaMishra12&layout=compact&theme=radical)
 
 ---
 
