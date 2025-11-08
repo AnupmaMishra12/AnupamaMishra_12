@@ -26,7 +26,18 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-00599C?logo=database&logoColor=white)
 
+---
+## 🌟 Featured Projects
+
+- [Elevate_Labs_projects](https://github.com/AnupmaMishra12/Elevate_Labs_projects): Collection of web development and internship projects at ElevateLabs.
+- [AnupamaMishra12.github.io](https://github.com/AnupmaMishra12/AnupamaMishra12.github.io): My personal portfolio site.
+- [uptoskills](https://github.com/AnupmaMishra12/uptoskills): Projects as Team Leader Intern at uptoskills.
+- [landing-page](https://github.com/AnupmaMishra12/landing-page): Modern, responsive landing page design.
+- [Login-Page](https://github.com/AnupmaMishra12/Login-Page): Secure, elegant login page template.
+- 
 ---
 <p align="center">
   <img src="https://copilot.microsoft.com/th/id/BCO.e1f053bb-6951-4d0f-8bb4-f1cb806a5669.png" width="200" />
