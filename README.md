@@ -30,13 +30,40 @@
 ![DBMS](https://img.shields.io/badge/DBMS-00599C?logo=database&logoColor=white)
 
 ---
+
 ## 🌟 Featured Projects
 
-- [Elevate_Labs_projects](https://github.com/AnupmaMishra12/Elevate_Labs_projects): Collection of web development and internship projects at ElevateLabs.
-- [AnupamaMishra12.github.io](https://github.com/AnupmaMishra12/AnupamaMishra12.github.io): My personal portfolio site.
-- [uptoskills](https://github.com/AnupmaMishra12/uptoskills): Projects as Team Leader Intern at uptoskills.
-- [landing-page](https://github.com/AnupmaMishra12/landing-page): Modern, responsive landing page design.
-- [Login-Page](https://github.com/AnupmaMishra12/Login-Page): Secure, elegant login page template.
+### 🔹 Elevate_Labs_projects
+- Collection of web development and internship projects at ElevateLabs
+- Includes form validation, UI polish, and responsive layouts
+- [GitHub Repo](https://github.com/AnupmaMishra12/Elevate_Labs_projects)
+
+### 🔹 AnupamaMishra12.github.io
+- Hosted static portfolio website using HTML, CSS, and JavaScript
+- Showcases skills, projects, and contact section
+- [GitHub Repo](https://github.com/AnupmaMishra12/AnupamaMishra12.github.io)
+
+### 🔹 Uptoskills
+- Projects built as Team Leader Intern at Uptoskills
+- Includes dashboard, login system, and registration form
+- Tech stack: HTML, CSS, JavaScript, PHP, MySQL
+- [GitHub Repo](https://github.com/AnupmaMishra12/uptoskills)
+
+### 🔹 Landing Page
+- Modern, responsive landing page design
+- Clean layout with call-to-action and mobile-friendly sections
+- [GitHub Repo](https://github.com/AnupmaMishra12/landing-page)
+
+### 🔹 Login Page
+- Secure, elegant login page template
+- Built with HTML, CSS, and JavaScript
+- [GitHub Repo](https://github.com/AnupmaMishra12/Login-Page)
+
+### 🔹 Anupama_portfolio
+- Personal portfolio site (under development)
+- Focused on responsive design and recruiter-friendly layout
+- [GitHub Repo](https://github.com/AnupmaMishra12/Anupama_portfolio)
+  
 ---
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnupmaMishra12&layout=compact&theme=radical)
 
@@ -45,6 +72,7 @@
   <img src="https://copilot.microsoft.com/th/id/BCO.e1f053bb-6951-4d0f-8bb4-f1cb806a5669.png" width="200" />
 </p>
 
+---
 
 ### 🌟 Milestone: Accessibility & UI Polish (3 PRs)
 
