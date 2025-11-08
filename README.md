@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anupma Mishra</h1>
+<h1 align="center">Hi 👋, I'm Anupama Mishra</h1>
 <p align="center">
 🌱 Frontend Developer | MCA Student | Open Source Enthusiast  
 💻 Passionate about building responsive web apps and learning new tech  
@@ -28,7 +28,22 @@
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 ---
+<p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.e1f053bb-6951-4d0f-8bb4-f1cb806a5669.png" width="200" />
+</p>
 
+
+### 🌟 Milestone: Accessibility & UI Polish (3 PRs)
+
+As part of my open-source learning journey, I contributed to beginner-friendly projects with a focus on accessibility, semantic HTML, and UI enhancements.
+
+#### ✅ Pull Requests Submitted:
+- [Counter App – Semantic & UI Polish](https://github.com/04Shubhankar/20_HTML-CSS-JS-Beginner-Projects/pull/3)
+- [VIBGYOR Color App – Logic & Styling](https://github.com/04Shubhankar/20_HTML-CSS-JS-Beginner-Projects/pull/4)
+- [Form Validator – Accessibility Enhancements](https://github.com/04Shubhankar/20_HTML-CSS-JS-Beginner-Projects/pull/5)
+
+These PRs improve screen reader compatibility, responsive layout, and beginner-friendly structure — making the project more inclusive and impactful for learners.
+---
 ### 📊 GitHub Stats
 
 ![Anupma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnupmaMishra12&show_icons=true&theme=radical)
@@ -40,7 +55,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anupma-mishra/)
 - 💻 [GitHub](https://github.com/AnupmaMishra12)
-- 📧 Email: anupmamishra485@gmail.com
+- 📧 [Email](anupmamishra485@gmail.com)
 
 ---
 
