@@ -12,7 +12,7 @@
 - 🧠 Interning at CodeAlpha (Frontend)  
 - 🏆 Team Leader at Uptoskills | Contributor at ElevateLabs  
 - 🚀 Running a 30-day JavaScript challenge  
-- 🎯 Preparing for GSSoC 2025 and government exams  
+- 🎯 Preparing for GSSoC 2025 
 - 🤝 Passionate about teamwork, leadership, and social responsibility (NSS)
 
 ---
@@ -74,14 +74,28 @@
 
 ---
 
-### 🌟 Milestone: Accessibility & UI Polish (3 PRs)
+### 🌟 Milestone: Accessibility & UI Polish (5 PRs)
 
 As part of my open-source learning journey, I contributed to beginner-friendly projects with a focus on accessibility, semantic HTML, and UI enhancements.
 
 #### ✅ Pull Requests Submitted:
 - [Counter App – Semantic & UI Polish](https://github.com/04Shubhankar/20_HTML-CSS-JS-Beginner-Projects/pull/3)
+  - Replaced non-semantic tags with semantic HTML5 elements
+  - Improved button contrast and spacing
+  - Added ARIA labels for screen reader compatibility
 - [VIBGYOR Color App – Logic & Styling](https://github.com/04Shubhankar/20_HTML-CSS-JS-Beginner-Projects/pull/4)
+  - Corrected color sequence logic to match VIBGYOR order
+  - Enhanced UI with hover effects and spacing
+  - Cleaned up class naming and CSS structure
 - [Form Validator – Accessibility Enhancements](https://github.com/04Shubhankar/20_HTML-CSS-JS-Beginner-Projects/pull/5)
+  - Linked labels to inputs for better screen reader support
+  - Improved error message visibility and contrast
+  - Ensured keyboard accessibility and focus indicators
+- [FirstContribution](https://github.com/firstcontributions/first-contributions/pull/XYZ)
+  - Added name to contributors list
+- [Carvel](https://github.com/carvel-dev/carvel/pull/XYZ)
+  - Documentation fixes (Code of Conduct, etc.)
+
 
 These PRs improve screen reader compatibility, responsive layout, and beginner-friendly structure — making the project more inclusive and impactful for learners.
 ---
